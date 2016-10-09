@@ -1,0 +1,27 @@
+{
+  "name": "chatty",
+  "description": "A Chat Application with Node.js and Socket.io",
+  "main": "app.js",
+  "authors": [
+    "Yasir Lateef <yasirlateef112@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Chat",
+    "Node.js",
+    "Socket.io",
+    "real-time"
+  ],
+  "homepage": "public/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

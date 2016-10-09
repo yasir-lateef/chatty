@@ -1,0 +1,21 @@
+{
+  "name": "chatty",
+  "version": "0.0.1",
+  "description": "A Chat Application with Node.js and Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Chat",
+    "Node.js",
+    "Socket.io",
+    "real-time"
+  ],
+  "author": "Yasir Lateef <yasirlateef112@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0"
+  }
+}
